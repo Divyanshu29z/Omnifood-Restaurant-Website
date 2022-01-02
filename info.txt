@@ -1,0 +1,10 @@
+Websites referred -
+unsplash
+uifaces
+heroicons
+squoosh - for image size optimizations
+Tints & shade generator 
+
+
+Optimizations
+1. Lighthouse performance testing
